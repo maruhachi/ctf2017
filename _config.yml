@@ -1,0 +1,14 @@
+# Config settings
+title: feel-the-rhythm wiki for ctf 2017
+baseurl: "/ctf2017"
+
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html]
+
+# Build settings
+markdown: kramdown
+theme: minima
